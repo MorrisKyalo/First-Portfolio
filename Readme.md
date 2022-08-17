@@ -3,5 +3,6 @@ This website is my first website on github created to test my web desgning and d
 - [ ] who i am
 - [ ] what i do
 - [ ] How i do it 
-- [ ] To whom i do it for 
+- [ ] To whom i do it
+
 
